@@ -1,0 +1,18 @@
+name: diabetes_project
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10
+  - duckdb
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - plotly
+  - scikit-learn
+  - seaborn
+  - jupyterlab-lsp
+prefix: C:\Users\emili\anaconda3\envs\diabetes_project
